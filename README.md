@@ -1,5 +1,8 @@
 # React URL Shortener Web App
 
+![image](https://github.com/user-attachments/assets/602ab8ab-4edf-48a4-8d12-ade66c21becb)
+![image](https://github.com/user-attachments/assets/806cf8b9-75d1-4153-a954-9e044c4e8ef7)
+
 A robust, observable React-based URL Shortener application with a reusable logging middleware. The app features a modern Material UI design, URL shortening, shortcode management, expiry display, and a statistics page with click analytics. All significant frontend events are logged to a protected API using a Bearer token.
 
 ## Features
